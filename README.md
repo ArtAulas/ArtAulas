@@ -1,4 +1,8 @@
- ## Olá, seja bem vindo ao meu repositório!
+## <h1>Olá, bem vindo(a) ao meu repositório 
+
+<h3>Sobre mim:</h3>
+<p>Estudante de Sistemas de Informação</p>
+<p>Estagiário em <b>Desenvolvimento Desktop</b></p>
 
 <!--
 **ArtAulas/ArtAulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
