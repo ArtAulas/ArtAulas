@@ -1,20 +1,20 @@
 ## <h1>Olá, bem vindo(a) ao meu repositório 
 
-<h3>Sobre mim:</h3>
+<h2>Sobre mim:</h2>
 <p>Estudante de Sistemas de Informação</p>
 <p>Estagiário em <b>Desenvolvimento Desktop</b></p>
-
-<!--
-**ArtAulas/ArtAulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Minhas principais Tecnologias:</h3>
+<h4><b>BackEnd:</b></h4>
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>C#</li>
+  <li>Java</li>
+</ul>
+<h4><b>FrontEnd:</b></h4>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+</ul>
