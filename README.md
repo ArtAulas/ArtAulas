@@ -5,9 +5,9 @@
 <p>Estagiário em <b>Desenvolvimento Desktop</b></p>
 <h3>Minhas principais Tecnologias:</h3>
 <h4><b>BackEnd:</b></h4>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 <ul>
-  
+  <li>Python</li>
   <li>JavaScript</li>
   <li>C#</li>
   <li>Java</li>
