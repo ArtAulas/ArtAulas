@@ -25,4 +25,9 @@
   ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <h3>Entre em contato:</h3>
-<a href="https://www.linkedin.com/in/arthur-carelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur carelli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arthur-carelli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur carelli" height="30" width="40" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=carelliarthu8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
