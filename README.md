@@ -2,7 +2,7 @@
 
 <h2>Sobre mim:</h2>
 <p>Estudante de Sistemas de Informação</p>
-<p>Estagiário em <b>Desenvolvimento Desktop</b></p>
+<p>Desenvolvedor com foco em BackEnd</p>
 <h3>Minhas principais Tecnologias:</h3>
 <h4><b>BackEnd:</b></h4>
 
